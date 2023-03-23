@@ -7,7 +7,7 @@ draft: false
 
 # binary static analysis
 
-1. Test
+1. File analysis
     ```
     $ file bin
     ```
