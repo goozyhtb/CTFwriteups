@@ -7,4 +7,10 @@ draft: false
 
 # binary static analysis
 
-aoidjaoidj *important*
+1. Test
+    ```
+    $ file bin
+    ```
+2. Test
+    * test
+    * test
