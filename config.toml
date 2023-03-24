@@ -1,4 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://goozyhtb.github.io/CTFwriteups/'
 languageCode = 'en-us'
 title = 'GazooArmy CTF WriteUps'
 theme = 'ananke'
+cascade:
+  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
