@@ -2,3 +2,5 @@ baseURL = 'https://goozyhtb.github.io/CTFwriteups/'
 languageCode = 'en-us'
 title = 'GazooArmy CTF WriteUps'
 theme = 'ananke'
+
+SectionPagesMenu = "main"
