@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF3 on GazooArmy CTF WriteUps</title>
+    <link>https://goozyhtb.github.io/CTFwriteups/post/ctf3/</link>
+    <description>Recent content in CTF3 on GazooArmy CTF WriteUps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 23:22:12 +0100</lastBuildDate><atom:link href="https://goozyhtb.github.io/CTFwriteups/post/ctf3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chall1</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/ctf3/chall1/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/ctf3/chall1/</guid>
+      <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
+    </item>
+    
+  </channel>
+</rss>
