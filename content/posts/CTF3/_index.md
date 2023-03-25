@@ -1,5 +1,5 @@
 ---
-title: "HTBApocalypse2023"
+title: "CTF3"
 
 description: "The last theme you'll ever need. Maybe."
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
