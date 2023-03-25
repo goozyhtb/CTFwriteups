@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revrsing on GazooArmy CTF WriteUps</title>
+    <link>https://goozyhtb.github.io/CTFwriteups/posts/htb-apocalypse-2023/reversing/</link>
+    <description>Recent content in Revrsing on GazooArmy CTF WriteUps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 23:22:12 +0100</lastBuildDate><atom:link href="https://goozyhtb.github.io/CTFwriteups/posts/htb-apocalypse-2023/reversing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ReverseChall1</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/posts/htb-apocalypse-2023/reversing/my-first-post/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/posts/htb-apocalypse-2023/reversing/my-first-post/</guid>
+      <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
+    </item>
+    
+    <item>
+      <title>Reversing</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/posts/htb-apocalypse-2023/reversing/reversing/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/posts/htb-apocalypse-2023/reversing/reversing/</guid>
+      <description>Shattered Tablet 325 very easy She Shells C Shells 350 very easy Needle in a Haystack 325 very easy Hunting License 350 easy Cave System 375 easy Alien Saboteaur 425 medium Gimmick DSP 825 medium Vessel Cartographer 1000 hard Somewhat Linear 425 hard Analogue Signal Processing 825 insane  Shattered Tablet Deep in an ancient tomb, you&amp;rsquo;ve discovered a stone tablet with secret information on the locations of other relics.</description>
+    </item>
+    
+  </channel>
+</rss>

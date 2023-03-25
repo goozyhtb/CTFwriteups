@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Reversing | GazooArmy CTF WriteUps</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Shattered Tablet 325 very easy She Shells C Shells 350 very easy Needle in a Haystack 325 very easy Hunting License 350 easy Cave System 375 easy Alien Saboteaur 425 medium Gimmick DSP 825 medium Vessel Cartographer 1000 hard Somewhat Linear 425 hard Analogue Signal Processing 825 insane  Shattered Tablet Deep in an ancient tomb, you&rsquo;ve discovered a stone tablet with secret information on the locations of other relics.">
+    <meta name="generator" content="Hugo 0.92.2" />
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="/CTFwriteups/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="Reversing" />
+<meta property="og:description" content="Shattered Tablet 325 very easy She Shells C Shells 350 very easy Needle in a Haystack 325 very easy Hunting License 350 easy Cave System 375 easy Alien Saboteaur 425 medium Gimmick DSP 825 medium Vessel Cartographer 1000 hard Somewhat Linear 425 hard Analogue Signal Processing 825 insane  Shattered Tablet Deep in an ancient tomb, you&rsquo;ve discovered a stone tablet with secret information on the locations of other relics." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://goozyhtb.github.io/CTFwriteups/posts/htb-apocalypse-2023/reversing/reversing/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2023-03-23T23:22:12+01:00" />
+<meta property="article:modified_time" content="2023-03-23T23:22:12+01:00" />
+
+<meta itemprop="name" content="Reversing">
+<meta itemprop="description" content="Shattered Tablet 325 very easy She Shells C Shells 350 very easy Needle in a Haystack 325 very easy Hunting License 350 easy Cave System 375 easy Alien Saboteaur 425 medium Gimmick DSP 825 medium Vessel Cartographer 1000 hard Somewhat Linear 425 hard Analogue Signal Processing 825 insane  Shattered Tablet Deep in an ancient tomb, you&rsquo;ve discovered a stone tablet with secret information on the locations of other relics."><meta itemprop="datePublished" content="2023-03-23T23:22:12+01:00" />
+<meta itemprop="dateModified" content="2023-03-23T23:22:12+01:00" />
+<meta itemprop="wordCount" content="561">
+<meta itemprop="keywords" content="" /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Reversing"/>
+<meta name="twitter:description" content="Shattered Tablet 325 very easy She Shells C Shells 350 very easy Needle in a Haystack 325 very easy Hunting License 350 easy Cave System 375 easy Alien Saboteaur 425 medium Gimmick DSP 825 medium Vessel Cartographer 1000 hard Somewhat Linear 425 hard Analogue Signal Processing 825 insane  Shattered Tablet Deep in an ancient tomb, you&rsquo;ve discovered a stone tablet with secret information on the locations of other relics."/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/CTFwriteups/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        GazooArmy CTF WriteUps
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/CTFwriteups/posts/" title="Posts page">
+              Posts
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        REVRSING
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">Reversing</h1>
+      
+      <p class="tracked">
+        By <strong>mara</strong>
+      </p>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2023-03-23T23:22:12+01:00">March 23, 2023</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><ul>
+<li>Shattered Tablet 325 very easy</li>
+<li>She Shells C Shells 350 very easy</li>
+<li>Needle in a Haystack 325 very easy</li>
+<li>Hunting License 350 easy</li>
+<li>Cave System 375 easy</li>
+<li>Alien Saboteaur 425 medium</li>
+<li>Gimmick DSP 825 medium</li>
+<li>Vessel Cartographer 1000 hard</li>
+<li>Somewhat Linear 425 hard</li>
+<li>Analogue Signal Processing 825 insane</li>
+</ul>
+<h1 id="shattered-tablet">Shattered Tablet</h1>
+<p>Deep in an ancient tomb, you&rsquo;ve discovered a stone tablet with secret information on the locations of other relics. However, while dodging a poison dart, it lipped from your hands and shattered into hundreds of pieces. Can you reassemble it and read the clues?</p>
+<h1 id="she-shells-c-shells">She Shells C Shells</h1>
+<p>You&rsquo;ve arrived in the Galactic Archive, sure that a critical clue is hidden here. You wait anxiously for a terminal to boot up, hiding in the shadows from the guards hunting for you. Unfortunately, it looks like you&rsquo;ll need a password to get what you need without setting off the alarms&hellip;</p>
+<h1 id="needle-in-a-haystack">Needle in a Haystack</h1>
+<p>You&rsquo;ve obtained an ancient alien Datasphere, containing categorized and sorted recordings of every word in the forgotten intergalactic common language. Hidden within it is the password to a tomb, but the sphere has been worn with age and the search function no longer works, only playing random recordings. You don&rsquo;t have time to search through every recording - can you crack it open and extract the answer?</p>
+<h1 id="hunting-license">Hunting License</h1>
+<p>STOP! Adventurer, have you got an up to date relic hunting license? If you don&rsquo;t, you&rsquo;ll need to take the exam again before you&rsquo;ll be allowed passage into the spacelanes!</p>
+<h1 id="cave-system">Cave System</h1>
+<p>Deep inside a cave system, 500 feet below the surface, you find yourself stranded with supplies running low. Ahead of you sprawls a network of tunnels, branching off and looping back on themselves. You don&rsquo;t have time to explore them all - you&rsquo;ll need to program your cave-crawling robot to find the way out&hellip;</p>
+<h1 id="alien-saboteaur">Alien Saboteaur</h1>
+<p>You finally manage to make it into the main computer of the vessel, it&rsquo;s time to get this over with. You try to shutdown the vessel, however a couple of access codes unknown to you are needed. You try to figure them out, but the computer start speaking some weird language, it seems like gibberish&hellip;</p>
+<h1 id="gimmick-dsp">Gimmick DSP</h1>
+<p>Now, the aliens have a new gimmick. They&rsquo;re using a computer program to encrypt their messages, but have heavily obfuscated the code. Can you reverse-engineer the program and figure out what the aliens are saying? The f lag is all lowercase</p>
+<h1 id="vessel-cartographer">Vessel Cartographer</h1>
+<p>You finally manage to remotely connect to a computer onboard the alien vessel to shutdown the defense mechanisms. However, it instantly starts acting up and ends up deploying malware as a defense mechanism. All your documents including your hard earned map of the vessel topology is now encrypted.</p>
+<h1 id="somewhat-linear">Somewhat Linear</h1>
+<p>Deep in the alien cave system, you find a strange device. It seems to be some sort of communication cipherer, but only a couple of recordings are still intact. Can you figure out what the aliens were trying to say? The flag is all lower case*</p>
+<h1 id="analogue-signal-processing">Analogue Signal Processing</h1>
+<p>Before the aliens had computers, they used analogue circuits to communicate. One of their favourite tricks was to hide messages in the communication equipment itself, which often used inductors and high-tech, complex resistors. Using a few samples from different locations in the circuit, can you figure out the parameters of the circuitry?</p>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://goozyhtb.github.io/CTFwriteups/" >
+    &copy;  GazooArmy CTF WriteUps 2023 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>
