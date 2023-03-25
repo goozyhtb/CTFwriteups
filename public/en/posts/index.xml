@@ -1,66 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GazooArmy CTF WriteUps</title>
-    <link>https://goozyhtb.github.io/CTFwriteups/</link>
-    <description>Recent content on GazooArmy CTF WriteUps</description>
+    <title>Articles on GazooArmy CTF WriteUps</title>
+    <link>https://goozyhtb.github.io/CTFwriteups/en/posts/</link>
+    <description>Recent content in Articles on GazooArmy CTF WriteUps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Mar 2023 23:22:12 +0100</lastBuildDate><atom:link href="https://goozyhtb.github.io/CTFwriteups/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chall1</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/en/posts/ctf3/chall1/</link>
-      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
-      
-      <guid>https://goozyhtb.github.io/CTFwriteups/en/posts/ctf3/chall1/</guid>
-      <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
-    </item>
-    
-    <item>
-      <title>First</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/my-first-post/</link>
-      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
-      
-      <guid>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/my-first-post/</guid>
-      <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
-    </item>
-    
-    <item>
-      <title>Forensic</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/forensic/forensic1/</link>
-      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
-      
-      <guid>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/forensic/forensic1/</guid>
-      <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
-    </item>
-    
-    <item>
-      <title>ReverseChall1</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/reversing/my-first-post/</link>
-      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
-      
-      <guid>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/reversing/my-first-post/</guid>
-      <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
-    </item>
-    
-    <item>
-      <title>Reversing</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/reversing/</link>
-      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
-      
-      <guid>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/reversing/</guid>
-      <description>Shattered Tablet 325 very easy She Shells C Shells 350 very easy Needle in a Haystack 325 very easy Hunting License 350 easy Cave System 375 easy Alien Saboteaur 425 medium Gimmick DSP 825 medium Vessel Cartographer 1000 hard Somewhat Linear 425 hard Analogue Signal Processing 825 insane  Shattered Tablet Deep in an ancient tomb, you&amp;rsquo;ve discovered a stone tablet with secret information on the locations of other relics.</description>
-    </item>
-    
-    <item>
-      <title>Reversing</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/reversing/reversing/</link>
-      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
-      
-      <guid>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/reversing/reversing/</guid>
-      <description>Shattered Tablet 325 very easy She Shells C Shells 350 very easy Needle in a Haystack 325 very easy Hunting License 350 easy Cave System 375 easy Alien Saboteaur 425 medium Gimmick DSP 825 medium Vessel Cartographer 1000 hard Somewhat Linear 425 hard Analogue Signal Processing 825 insane  Shattered Tablet Deep in an ancient tomb, you&amp;rsquo;ve discovered a stone tablet with secret information on the locations of other relics.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://goozyhtb.github.io/CTFwriteups/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chapter VI: Esmeralda</title>
       <link>https://goozyhtb.github.io/CTFwriteups/en/posts/chapter-6/</link>
@@ -118,30 +64,12 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/en/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://goozyhtb.github.io/CTFwriteups/en/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881)   The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
-    </item>
-    
-    <item>
       <title>CTF2</title>
       <link>https://goozyhtb.github.io/CTFwriteups/en/posts/ctf2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://goozyhtb.github.io/CTFwriteups/en/posts/ctf2/</guid>
       <description>Illustration from Victor Hugo et son temps (1881)   The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
-    </item>
-    
-    <item>
-      <title>HTB Apocalypse 2023</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://goozyhtb.github.io/CTFwriteups/en/posts/htb-apocalypse-2023/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881)   Blabla</description>
     </item>
     
   </channel>
