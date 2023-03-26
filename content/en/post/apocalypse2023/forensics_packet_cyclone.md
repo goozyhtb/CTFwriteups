@@ -7,7 +7,7 @@ tags :
 - "HTB Apocalypse 2023"
 - "Forensic"
 ---
-[test](../forensics_packet_cyclone.zip)
+[download file](../forensics_packet_cyclone.zip)
 
 # binary static analysis
 
