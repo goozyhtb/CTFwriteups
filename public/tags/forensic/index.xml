@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forensic on GazooArmy</title>
+    <link>https://goozyhtb.github.io/CTFwriteups/tags/forensic/</link>
+    <description>Recent content in Forensic on GazooArmy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 23:22:12 +0100</lastBuildDate><atom:link href="https://goozyhtb.github.io/CTFwriteups/tags/forensic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF2 - ForensicChall1</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/ctf2/chall1/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/ctf2/chall1/</guid>
+      <description>binary static analysis  File analysis $ file collabin  Test  test test    </description>
+    </item>
+    
+    <item>
+      <title>HTB Apocalypse 2023 - Forensic Challs</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchalls/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchalls/</guid>
+      <description>Plaintext Tleasure Threat intelligence has found that the aliens operate through a command and control server hosted on their infrastructure. Pandora managed to penetrate their defenses and have access to their internal network. Because their server uses HTTP, Pandora captured the network traffic to steal the server&amp;rsquo;s administrator credentials. Open the provided file using Wireshark, and locate the username and password of the admin.
+Alien Cradle In an attempt for the aliens to find more information about the relic, they launched an attack targeting Pandora&amp;rsquo;s close friends and partners that may know any secret information about it.</description>
+    </item>
+    
+    <item>
+      <title>HTB Apocalypse 2023 - ForensicChall1</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchall1/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchall1/</guid>
+      <description> binary static analysis  File analysis $ file bin  Test  test test    </description>
+    </item>
+    
+    <item>
+      <title>HTB Apocalypse 2023 - ForensicChall2</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchall2/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchall2/</guid>
+      <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
+    </item>
+    
+  </channel>
+</rss>

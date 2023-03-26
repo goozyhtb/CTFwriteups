@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://goozyhtb.github.io/CTFwriteups/post/chall1/</loc>
+    <loc>https://goozyhtb.github.io/CTFwriteups/tags/ctf2/</loc>
     <lastmod>2023-03-23T23:22:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://goozyhtb.github.io/CTFwriteups/post/</loc>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/ctf2/chall1/</loc>
     <lastmod>2023-03-23T23:22:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://goozyhtb.github.io/CTFwriteups/post/forensic1/</loc>
+    <loc>https://goozyhtb.github.io/CTFwriteups/tags/forensic/</loc>
     <lastmod>2023-03-23T23:22:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -22,12 +22,47 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://goozyhtb.github.io/CTFwriteups/post/my-first-post/</loc>
+    <loc>https://goozyhtb.github.io/CTFwriteups/tags/htb-apocalypse-2023/</loc>
     <lastmod>2023-03-23T23:22:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://goozyhtb.github.io/CTFwriteups/post/reversing/</loc>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchalls/</loc>
+    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchall1/</loc>
+    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchall2/</loc>
+    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/reversingchall1/</loc>
+    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/reversingchalls/</loc>
+    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://goozyhtb.github.io/CTFwriteups/tags/reversing/</loc>
+    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://goozyhtb.github.io/CTFwriteups/tags/</loc>
+    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/</loc>
     <lastmod>2023-03-23T23:22:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -37,10 +72,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://goozyhtb.github.io/CTFwriteups/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://goozyhtb.github.io/CTFwriteups/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

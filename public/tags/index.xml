@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on GazooArmy CTF WriteUps</title>
+    <title>Tags on GazooArmy</title>
     <link>https://goozyhtb.github.io/CTFwriteups/tags/</link>
-    <description>Recent content in Tags on GazooArmy CTF WriteUps</description>
+    <description>Recent content in Tags on GazooArmy</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://goozyhtb.github.io/CTFwriteups/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Mar 2023 23:22:12 +0100</lastBuildDate><atom:link href="https://goozyhtb.github.io/CTFwriteups/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CTF2</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/tags/ctf2/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/tags/ctf2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forensic</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/tags/forensic/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/tags/forensic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTB Apocalypse 2023</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/tags/htb-apocalypse-2023/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/tags/htb-apocalypse-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reversing</title>
+      <link>https://goozyhtb.github.io/CTFwriteups/tags/reversing/</link>
+      <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
+      
+      <guid>https://goozyhtb.github.io/CTFwriteups/tags/reversing/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
