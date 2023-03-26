@@ -5,6 +5,7 @@ author: "mara"
 draft: false
 tags : 
 - "HTB Apocalypse 2023"
+- "Reversing"
 ---
 
 # binary static analysis

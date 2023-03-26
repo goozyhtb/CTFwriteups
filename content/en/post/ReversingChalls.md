@@ -5,6 +5,7 @@ author: "mara"
 draft: false
 tags : 
 - "HTB Apocalypse 2023"
+- "Reversing"
 ---
 
 * Shattered Tablet 325 very easy
