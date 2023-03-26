@@ -1,5 +1,5 @@
 ---
-title: "HTB Apocalypse 2023" - ForensicChall2"
+title: "HTB Apocalypse 2023 - ForensicChall2"
 date: 2023-03-23T23:22:12+01:00
 author: "goozy"
 draft: false

@@ -9,37 +9,37 @@
     <lastBuildDate>Thu, 23 Mar 2023 23:22:12 +0100</lastBuildDate><atom:link href="https://goozyhtb.github.io/CTFwriteups/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Chall1</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/post/ctf3/chall1/</link>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/chall1/</link>
       <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
       
-      <guid>https://goozyhtb.github.io/CTFwriteups/post/ctf3/chall1/</guid>
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/chall1/</guid>
       <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
     </item>
     
     <item>
       <title>Forensic</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/post/htb-apocalypse-2023/forensic/forensic1/</link>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/forensic1/</link>
       <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
       
-      <guid>https://goozyhtb.github.io/CTFwriteups/post/htb-apocalypse-2023/forensic/forensic1/</guid>
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/forensic1/</guid>
       <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
     </item>
     
     <item>
       <title>ReverseChall1</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/post/htb-apocalypse-2023/reversing/my-first-post/</link>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/my-first-post/</link>
       <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
       
-      <guid>https://goozyhtb.github.io/CTFwriteups/post/htb-apocalypse-2023/reversing/my-first-post/</guid>
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/my-first-post/</guid>
       <description>binary static analysis  File analysis $ file bin  Test  test test    </description>
     </item>
     
     <item>
       <title>Reversing</title>
-      <link>https://goozyhtb.github.io/CTFwriteups/post/htb-apocalypse-2023/reversing/reversing/</link>
+      <link>https://goozyhtb.github.io/CTFwriteups/post/reversing/</link>
       <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
       
-      <guid>https://goozyhtb.github.io/CTFwriteups/post/htb-apocalypse-2023/reversing/reversing/</guid>
+      <guid>https://goozyhtb.github.io/CTFwriteups/post/reversing/</guid>
       <description>Shattered Tablet 325 very easy She Shells C Shells 350 very easy Needle in a Haystack 325 very easy Hunting License 350 easy Cave System 375 easy Alien Saboteaur 425 medium Gimmick DSP 825 medium Vessel Cartographer 1000 hard Somewhat Linear 425 hard Analogue Signal Processing 825 insane  Shattered Tablet Deep in an ancient tomb, you&amp;rsquo;ve discovered a stone tablet with secret information on the locations of other relics.</description>
     </item>
     

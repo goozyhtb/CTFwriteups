@@ -1,5 +1,9 @@
 ---
-title: "Write-ups"
-date: 2017-03-02T12:00:00-05:00
+title: "Write-Ups"
+
+description: ""
+# 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
+theme_version: '2.8.2'
+cascade:
+  featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
