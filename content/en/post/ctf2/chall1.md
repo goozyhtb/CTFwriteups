@@ -12,7 +12,7 @@ tags :
 
 1. File analysis
     ```
-    $ file bin
+    $ file collabin
     ```
 2. Test
     * test
