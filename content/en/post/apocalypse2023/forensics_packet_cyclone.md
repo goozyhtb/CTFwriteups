@@ -1,5 +1,5 @@
 ---
-title: "HTB Apocalypse 2023 - ForensicChall1"
+title: "HTB Apocalypse 2023 - Packet Cyclone"
 date: 2023-03-23T23:22:12+01:00
 author: "goozy"
 draft: false
@@ -7,8 +7,7 @@ tags :
 - "HTB Apocalypse 2023"
 - "Forensic"
 ---
-
-{{< relref "static/forensics_packet_cyclone.zip" >}}
+[test](../forensics_packet_cyclone.zip)
 
 # binary static analysis
 
