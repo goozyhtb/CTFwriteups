@@ -1,6 +1,6 @@
 baseURL = 'https://goozyhtb.github.io/CTFwriteups/'
 languageCode = 'en-us'
-title = 'GazooArmy CTF WriteUps'
+title = 'GazooArmy'
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 
 DefaultContentLanguage = "en"
