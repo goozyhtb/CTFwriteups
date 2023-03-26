@@ -5,6 +5,7 @@ author: "goozy"
 draft: false
 tags : 
 - "HTB Apocalypse 2023"
+- "Forensic"
 ---
 
 # binary static analysis
