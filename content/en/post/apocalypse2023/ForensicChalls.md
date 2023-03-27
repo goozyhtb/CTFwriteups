@@ -6,6 +6,7 @@ draft: false
 tags : 
 - "HTB Apocalypse 2023"
 - "Forensic"
+featured_image: '/images/gazoo.jpg'
 ---
 
 

@@ -13,7 +13,10 @@
       <pubDate>Thu, 23 Mar 2023 23:22:12 +0100</pubDate>
       
       <guid>https://goozyhtb.github.io/CTFwriteups/post/ctf2/chall1/</guid>
-      <description>binary static analysis  File analysis $ file collabin  Test  test test    </description>
+      <description>binary static analysis   File analysis
+$ file collabin   Test
+ test test    Test ok
+ test    </description>
     </item>
     
   </channel>

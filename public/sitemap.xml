@@ -32,12 +32,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchall1/</loc>
-    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensicchall2/</loc>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensics_packet_cyclone/</loc>
     <lastmod>2023-03-23T23:22:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -48,6 +43,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/reversingchalls/</loc>
+    <lastmod>2023-03-23T23:22:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://goozyhtb.github.io/CTFwriteups/post/apocalypse2023/forensics_roten/</loc>
     <lastmod>2023-03-23T23:22:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
